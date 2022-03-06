@@ -1,0 +1,187 @@
+body {
+  margin: 0px;
+  border: 0px;
+  background-color: #0d1117;
+}
+
+#textStyle {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 3.5em;
+}
+
+#inputMsg {
+  border-radius: 1em;
+  width: 40%;
+  height: auto;
+  padding-bottom: 2em;
+  background-color: #fff;
+}
+
+/*title style */
+
+.titleStyle {
+  padding-bottom: 2em;
+}
+.titleStyle p {
+  color: #00245a;
+  font-size: 32px;
+  margin-left: 2em;
+}
+
+.titleStyle .titleName {
+  width: 18em;
+  height: 2em;
+  margin-left: 2.5em;
+  border: 1px solid #000;
+  color: #005a0f;
+  border-radius: 0.15em;
+  font-size: 24px;
+}
+
+/*font style */
+
+.fontInput {
+  margin-top: 1em;
+}
+.fontInput label {
+  display: flex;
+}
+
+.fontInput p {
+  color: #00245a;
+  font-size: 28px;
+  margin-left: 3em;
+}
+
+.fontInput input {
+  margin-top: 1.2em;
+  margin-left: 4em;
+  color: #005a0f;
+}
+
+.fontName {
+  width: 10em;
+  height: 2em;
+  margin-left: 3em;
+  border: 1px solid #000;
+  border-radius: 0.15em;
+  font-size: 18px;
+}
+
+/* fontSize style */
+
+.backgroundColor {
+  margin-top: 1em;
+}
+.backgroundColor label {
+  display: flex;
+}
+
+.backgroundColor p {
+  color: #00245a;
+  font-size: 28px;
+  margin-left: 2em;
+}
+
+.backgroundColor input {
+  margin-top: 1.2em;
+  color: #005a0f;
+}
+
+.backgroundC {
+  width: 10em;
+  height: 2em;
+  margin-left: 2em;
+  border: 1px solid #000;
+  border-radius: 0.15em;
+  font-size: 18px;
+}
+
+/* fontColor style */
+.fontColorInput {
+  margin-top: 1em;
+}
+.fontColorInput label {
+  display: flex;
+}
+
+.fontColorInput p {
+  color: #00245a;
+  font-size: 28px;
+  margin-left: 2.2em;
+}
+
+.fontColorInput input {
+  margin-top: 1.2em;
+  color: #005a0f;
+}
+
+.fontColorName {
+  width: 10em;
+  height: 2em;
+  margin-left: 2em;
+  border: 1px solid #000;
+  border-radius: 0.15em;
+  font-size: 18px;
+}
+
+.clickMsg {
+  width: 12em;
+  height: 3em;
+  border-radius: 0.55em;
+  opacity: 0.9;
+  color: #fff;
+  font-size: 18px;
+  background-color: #0d1117;
+  border: 2px solid #fff;
+  cursor: pointer;
+  margin-top: 2em;
+  margin-left: 32em;
+}
+#searchColor {
+  margin-top: 1.6em;
+  width: 3em;
+  height: 3em;
+}
+/*-------------------*/
+#outputMsg {
+  border-radius: 1em;
+  width: 40%;
+  height: auto;
+  padding-bottom: 2em;
+  background-color: #fff;
+}
+
+#outputMsg .outMessage {
+  margin-top: 8em;
+}
+
+.outMessage label {
+  text-align: center;
+  font-size: 38px;
+  color: #00245a;
+}
+
+.outMessage input {
+  width: 17.5em;
+  height: 12em;
+  margin-left: 4.2em;
+  border: 1px solid #000;
+  color: #005a0f;
+  font-size: 24px;
+  text-align: center;
+}
+
+.myCopy {
+  cursor: pointer;
+  width: 6em;
+  height: 2.5em;
+  background-color: #000;
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 1em;
+  margin-left: 34em;
+  margin-top: 1em;
+}
+
