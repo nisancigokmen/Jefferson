@@ -23,5 +23,3 @@ https://user-images.githubusercontent.com/91744618/156947280-cb8b3706-63ec-4a86-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
 
-
-
